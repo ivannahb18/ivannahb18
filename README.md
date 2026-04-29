@@ -17,3 +17,8 @@ A web app that gives a quick "vibe check" for any movie title using a local AI m
 - HTML, CSS, JavaScript
 - Working with AI/LLM APIs
 - Building and running local AI models
+  
+## Screenshots
+![Movie Vibe Check](https://raw.githubusercontent.com/ivannahb18/movie-vibe-check/main/movie.png)
+![Movie Vibe Check](https://raw.githubusercontent.com/ivannahb18/movie-vibe-check/main/movie2.png)
+![Movie Vibe Check](https://raw.githubusercontent.com/ivannahb18/movie-vibe-check/main/movie3.png)
